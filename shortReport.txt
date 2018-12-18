@@ -1,0 +1,35 @@
+Task 1
+*************************
+
+1. dependencies/jars were provided.
+
+2. “StandardAnalyzer” was used for the analysis.
+
+3. source code was changed to generate new index on every run.
+
+4. top 100 documents for each query ranked by score was generated.
+
+Task 2
+*************************
+
+Dirichlet Smoothing model:
+
+1. json Load the inverted index for unigrams generated in HW3.
+
+2. number of terms in the Collection was calculated.
+
+3. document length for each document was calculated using the inverted index list.
+
+4. each query was split up into query term and the scores were generated using Dirichlet smoothing.
+
+5. the constant MU was taken as 1500. 
+
+To calculate Dirichlet score, following formula was used.
+	
+	score = log((fqi+(MU*(cqi/C)))/(D+MU))
+
+fqi : frequency of the word in a document
+cqi : frequency of a term in the collection
+C : total number of terms present in collection	
+D : total number of terms present in a document (including duplicates) 
+MU: 1500

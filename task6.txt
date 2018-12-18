@@ -1,0 +1,125 @@
+X "carbon emission" and "cutting carbon emission":
+
+Lucene:
+
+	Number of overlapping documents: 79 
+	Range of Scores in carbon emission is 0.6620546 to 0.11818743
+	Range of Scores in cutting carbon emission is 0.28357196 to 0.058843873
+	Number of documents present in same order in both queries: 1
+
+Dirichlet:
+
+	Number of overlapping documents: 76 
+	Range of Scores in carbon emission is -4.043383336292857 to -5.7479943970992275
+	Range of Scores in cutting carbon emission is -8.082314121247684 to -10.427805630761185
+	Number of documents present in same order in both queries: 12
+
+******************************************************************************************************************************
+
+X "cutting carbon emission" and "flexible dieting":
+
+Lucene:
+
+	Number of overlapping documents: 17 
+	Range of Scores in cutting carbon emission is 0.28357196 to 0.058843873
+	Range of Scores in flexible dieting is 0.22668563 to 0.0069145365
+	Number of documents present in same order in both queries: 0
+
+Dirichlet:
+
+	Number of overlapping documents: 12 
+	Range of Scores in cutting carbon emission is -8.082314121247684 to -10.427805630761185
+	Range of Scores in flexible dieting is -7.509503665983706 to -10.383632213399721
+	Number of documents present in same order in both queries: 0
+
+******************************************************************************************************************************
+
+X "flexible dieting" and "flexible dieting and vegetarianism": 
+
+Lucene:
+
+	Number of overlapping documents: 66 
+	Range of Scores in flexible dieting is 0.22668563 to 0.0069145365
+	Range of Scores in flexible dieting and vegetarianism is 0.117867574 to 0.0035952856
+	Number of documents present in same order in both queries: 8
+
+Dirichlet:
+
+	Number of overlapping documents: 73 
+	Range of Scores in flexible dieting is -7.509503665983706 to -10.383632213399721
+	Range of Scores in flexible dieting and vegetarianism is -14.880602446288531 to -17.515625732580148
+	Number of documents present in same order in both queries: 12
+
+******************************************************************************************************************************
+
+X "flexible dieting and vegetarianism" and "information on pest control in greenhouse":
+ 
+Lucene:
+
+	Number of overlapping documents: 10
+	Range of Scores in flexible dieting and vegetarianism is 0.117867574 to 0.0035952856
+	Range of Scores in information on pest control is 0.27982894 to 0.03887277
+	Number of documents present in same order in both queries: 0
+
+Dirichlet:
+
+	Number of overlapping documents: 18
+	Range of Scores in flexible dieting and vegetarianism is -14.880602446288531 to -17.515625732580148
+	Range of Scores in information on pest control is -15.889815772330326 to -18.569622454189407
+	Number of documents present in same order in both queries: 1
+
+******************************************************************************************************************************
+
+X "information on pest control in greenhouse" and "pest control greenhouse": 
+ 
+Lucene:
+
+	Number of overlapping documents: 67
+	Range of Scores in information on pest control is 0.27982894 to 0.03887277
+	Range of Scores in pest control greenhouse is 0.2797739 to 0.028908035
+	Number of documents present in same order in both queries: 2
+
+Dirichlet:
+
+	Number of overlapping documents: 68
+	Range of Scores in information on pest control is -15.889815772330326 to -18.569622454189407
+	Range of Scores in pest control greenhouse is -8.72036423247196 to -11.364188840325248
+	Number of documents present in same order in both queries: 3
+
+******************************************************************************************************************************
+
+X "pest control greenhouse" and "greenhouse apples apple":
+ 
+Lucene:
+
+	Number of overlapping documents: 48
+	Range of Scores in pest control greenhouse is 0.2797739 to 0.028908035
+	Range of Scores in greenhouse apples apple is 0.13841562 to 0.014119739
+	Number of documents present in same order in both queries: 1
+
+Dirichlet:
+
+	Number of overlapping documents: 52
+	Range of Scores in pest control greenhouse is -8.72036423247196 to -11.364188840325248
+	Range of Scores in greenhouse apples apple is -10.54085799837565 to -13.609704703818629
+	Number of documents present in same order in both queries: 5
+
+******************************************************************************************************************************
+
+X "greenhouse apples apple" and "green house apples apple":
+ 
+Lucene:
+
+	Number of overlapping documents: 20
+	Range of Scores in greenhouse apples apple is 0.13841562 to 0.014119739
+	Range of Scores in green house apples apple is 0.14571649 to 0.021362077
+	Number of documents present in same order in both queries: 3
+
+Dirichlet:
+
+	Number of overlapping documents: 26
+	Range of Scores in greenhouse apples apple is -10.54085799837565 to -13.609704703818629
+	Range of Scores in green house apples apple is -14.290113967100524 to -17.203019796240167
+	Number of documents present in same order in both queries:4
+
+
